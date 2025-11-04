@@ -1,0 +1,8 @@
+Git Tutorial for Beginners
+ 
+
+So we start by learning the basic git commands
+
+#Basic Git Commands
+1. git init
+2. git clone. use to clone remote repository
